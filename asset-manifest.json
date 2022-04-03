@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Kayphrosh/FoodMo-React-Project.git/static/css/main.5da3368e.css",
+    "main.js": "/Kayphrosh/FoodMo-React-Project.git/static/js/main.b968729b.js",
+    "static/media/header-illustration.png": "/Kayphrosh/FoodMo-React-Project.git/static/media/header-illustration.df70e4f609e8144c86c0.png",
+    "static/media/pizza.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/pizza.016571e6211d2f424c176406408b588e.svg",
+    "static/media/feature-4.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/feature-4.e2c1f25102882be6f8aac96fe4f26e0f.svg",
+    "static/media/download-illustration.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/download-illustration.8b3a15c4d5f8bc0c989a596f2e6d3763.svg",
+    "static/media/feature-3.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/feature-3.916610ce7e258fd95cea176f1182e2c8.svg",
+    "static/media/feature-5.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/feature-5.49cd0e35091c532d20ddba31259b1f5e.svg",
+    "static/media/feature-1.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/feature-1.4ecf28c82887db31385274dae878a10a.svg",
+    "static/media/Gilroy-Regular.ttf": "/Kayphrosh/FoodMo-React-Project.git/static/media/Gilroy-Regular.319e0b95c15165640999.ttf",
+    "static/media/Gilroy-Bold.ttf": "/Kayphrosh/FoodMo-React-Project.git/static/media/Gilroy-Bold.bf181b073b4773f45c8e.ttf",
+    "static/media/Gilmer Medium.otf": "/Kayphrosh/FoodMo-React-Project.git/static/media/Gilmer Medium.eb4f5ee9778460bd3d2c.otf",
+    "static/media/logo.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/logo.712c115339e352516c97ac3adcc4aa81.svg",
+    "static/media/Oduda-Bold-Demo.otf": "/Kayphrosh/FoodMo-React-Project.git/static/media/Oduda-Bold-Demo.8b20f181fe6a689b116d.otf",
+    "static/media/applestore-btn.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/applestore-btn.fc8d196c6c03cdcf82bcc92dadc8b1db.svg",
+    "static/media/logo-feature.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/logo-feature.b1fac1fe6704bc164c4f9264235dbb89.svg",
+    "static/media/googleplay-btn.svg": "/Kayphrosh/FoodMo-React-Project.git/static/media/googleplay-btn.2bb47920c40b9abfb393debb0fce02a8.svg",
+    "index.html": "/Kayphrosh/FoodMo-React-Project.git/index.html",
+    "main.5da3368e.css.map": "/Kayphrosh/FoodMo-React-Project.git/static/css/main.5da3368e.css.map",
+    "main.b968729b.js.map": "/Kayphrosh/FoodMo-React-Project.git/static/js/main.b968729b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da3368e.css",
+    "static/js/main.b968729b.js"
+  ]
+}
